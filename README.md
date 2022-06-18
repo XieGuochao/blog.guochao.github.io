@@ -1,5 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+Manual from Hux Blog
 ================================
+
+> Great thanks to this fancy theme. (Guochao)
+
+--------------------------------------------------
 
 > I never expect this becomes popular.
 
